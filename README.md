@@ -1,1 +1,1 @@
-# tryrepo
+Bitmek üzere
